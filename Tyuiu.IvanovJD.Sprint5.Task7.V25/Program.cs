@@ -11,7 +11,7 @@ namespace Tyuiu.IvanovJD.Sprint5.Task7.V25
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #5 | Выполнил: Иванов Я.Д. | ПКТб-23-2";
+            Console.Title = "Спринт #5 | Выполнил: Иванов Я.Д.  | ПКТб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Класс File. Запись данных в текстовый файл                        *");
